@@ -31,3 +31,6 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Ignore the various build directories that the developer might make
+build*
